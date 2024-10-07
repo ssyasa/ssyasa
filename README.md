@@ -187,141 +187,6 @@ I am actively looking for new freelance projects and long-term collaborations in
 💼 **Reach me at** [shreyassrt483@gmail.com](mailto:shreyassrt483@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/shreyas-c-r-777b4229a) for opportunities.
 
 ---
-
-## 🔗 Let’s Connect:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shreyas-c-r-777b4229a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas-cr" height="30" width="40" />
-  </a>
-  <a href="https
-
-://github.com/ssyasa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ssyasa" height="30" width="40" />
-  </a>
-</p>
-
---- 
-
-
-## 🚀 Shreyas C.R — Freelancer | Data Analyst | Machine Learning Enthusiast | Full-Stack Developer
-
-📍 **Location:** Bengaluru, India  
-📞 **Phone:** +91 99023 36213  
-📧 **Email:** [shreyassrt483@gmail.com](mailto:shreyassrt483@gmail.com)  
-🌐 **LinkedIn:** [Shreyas C.R](https://www.linkedin.com/in/shreyas-c-r-777b4229a)  
-🌟 **GitHub:** [ssyasa](https://github.com/ssyasa)
-
----
-
-### 👋 Hi, I'm Shreyas!
-I am a dedicated **Computer Science** graduate with over **3 years of freelancing experience**, offering expertise in **Machine Learning**, **Data Science**, and **Full-Stack Web Development**. I specialize in building **data-driven applications** and **innovative solutions** to help businesses solve critical challenges, streamline processes, and gain actionable insights from their data.
-
-My technical toolkit spans across a variety of platforms, from **predictive modeling and AI-based applications** to **full-stack web development**—ensuring robust, scalable, and user-centric solutions for your business.
-
----
-
-## 🏆 Featured Projects
-
-
-**Live Demo:** [Link Here]
-
----
-
-### **2. PR Reconciliation Dashboard**  
-**Tools:** Power BI, SQL, DAX  
-**Objective:** Automating and visualizing the **purchase request reconciliation** process.  
-**Key Features:**  
-- Interactive dashboard with real-time data on PR approval vs. invoice mismatches.
-- Department-wise filtering for focused analytics.  
-**Impact:** Improved decision-making and cut approval processing time by 15%, resulting in a significant reduction in operational costs.
-
----
-
-### **3. Zomato Restaurant Insights Dashboard**  
-**Tools:** Power BI, Python (Pandas, Matplotlib), DAX  
-**Objective:** Deliver actionable insights for restaurants using **Zomato** data.  
-**Key Features:**  
-- Trend analysis for customer preferences and restaurant ratings.
-- Geographic heatmaps and sentiment analysis from reviews.  
-**Impact:** Boosted a client’s sales by 20% by aligning offerings with customer demands and regional preferences.
-
----
-
-### **4. Full-Stack Job Portal**  
-**Technologies:** React.js, Node.js, Express, MongoDB, JWT, Bootstrap  
-**Objective:** Create a robust **job portal platform** connecting job seekers and employers.  
-**Key Features:**  
-- **Role-Based Access Control**: Admin, employer, and job seeker views.  
-- **Real-time Notifications:** Job postings, applications, and offers.  
-- **Search & Filter:** Extensive filtering for jobs based on role, location, and experience.  
-**Impact:** Launched a streamlined and user-friendly platform that attracted over 10,000 job seekers and 500 employers within the first 3 months.
-
----
-
-### **5. Customer Churn Prediction for SaaS Platform**  
-**Tools:** Python, Scikit-learn, Power BI, DAX  
-**Objective:** Predict **customer churn** using historical data to enable proactive retention efforts.  
-**Key Features:**  
-- Built predictive models using **random forests** and **logistic regression** to assess churn risk.
-- Customer segmentation and lifetime value prediction.  
-**Impact:** Achieved a 12% reduction in churn rates, driving over $50K in retained revenue by enabling timely intervention for high-risk users.
-
----
-
-### **6. E-Commerce Platform (Full-Stack)**  
-**Technologies:** Django, PostgreSQL, React.js, Stripe API  
-**Objective:** Develop an end-to-end **e-commerce platform** with seamless product management, payments, and user management.  
-**Key Features:**  
-- **User Authentication:** JWT-based authentication and role management.  
-- **Payment Gateway Integration:** Secure payment processing through **Stripe API**.  
-- **Product and Order Management:** Dynamic inventory tracking and order history.  
-**Impact:** Provided a scalable, secure, and user-friendly e-commerce solution for a growing online retail business, increasing sales by 40%.
-
----
-
-### **7. Online Payment Fraud Detection**  
-**Tools:** Python, TensorFlow, Scikit-learn  
-**Objective:** Build an ML model to detect and prevent **fraudulent transactions**.  
-**Key Features:**  
-- Real-time fraud detection using classification models (random forest, neural networks).  
-- Integrated with payment systems for live fraud alerts.  
-**Impact:** Successfully reduced fraud cases by 85%, saving the company up to $200K annually.
-
----
-
-### **8. Train Ticket Sales Analysis**  
-**Tools:** Power BI, SQL, Excel  
-**Objective:** **Optimize ticket sales** for a railway company through data insights.  
-**Key Features:**  
-- Time-based sales trend analysis to inform marketing efforts.
-- Peak vs. off-peak ticket pricing insights.  
-**Impact:** Increased sales by 18% in off-peak times by identifying opportunities for targeted promotions.
-
----
-
-## 💡 Core Technologies & Skills
-
-### **Languages & Frameworks**  
-- **Languages:** Python, JavaScript, C++, Java, SQL  
-- **Front-End Development:** React.js, Angular, Vue.js, Bootstrap, Tailwind CSS  
-- **Back-End Development:** Node.js, Express.js, Django, Flask, Spring Boot  
-- **Databases:** MongoDB, PostgreSQL, MySQL, SQLite  
-- **Cloud & DevOps:** AWS (Lambda, EC2, S3), Docker, Kubernetes, Jenkins  
-- **APIs & Integrations:** REST, GraphQL, OpenAI, OpenRouter, Stripe API  
-- **AI/ML Tools:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, NLP  
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-
----
-
-## 🎓 Certifications
-- **Machine Learning Specialization** – Coursera  
-- **Full-Stack Web Development** – freeCodeCamp  
-- **AWS Certified Solutions Architect**  
-- **Data Science Certification** – DataCamp
-
----
-
 ## 🌟 Let’s Collaborate
 Looking for a partner to bring **data-driven insights**, **AI-powered applications**, or **full-stack web solutions** to life? Let’s work together to create transformative digital experiences and scalable platforms that meet your business goals.
 
@@ -360,4 +225,17 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <
+## 🔗 Let’s Connect:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shreyas-c-r-777b4229a" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas-cr" height="30" width="40" />
+  </a>
+  <a href="https
+
+://github.com/ssyasa" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ssyasa" height="30" width="40" />
+  </a>
+</p>
+
+--- 
