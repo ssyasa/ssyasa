@@ -6,7 +6,7 @@
 📞 **Phone:** +91 99023 36213  
 📧 **Email:** [shreyassrt483@gmail.com](mailto:shreyassrt483@gmail.com)  
 🌐 **LinkedIn:** [Shreyas C.R](https://www.linkedin.com/in/shreyas-c-r-777b4229a)  
-🌟 **GitHub:** [ssyasa](https://github.com/ssyasa)
+🌟 **GitHub:** [Shreyas C.R](https://github.com/ssyasa)
 
 ---
 
