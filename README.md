@@ -225,7 +225,9 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-## 🔗 Let’s Connect:
+
+  
+  ## 🔗 Let’s Connect:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shreyas-c-r-777b4229a" target="_blank">
