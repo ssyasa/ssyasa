@@ -226,18 +226,4 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 
-  
-  ## 🔗 Let’s Connect:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shreyas-c-r-777b4229a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas-cr" height="30" width="40" />
-  </a>
-  <a href="https
-
-://github.com/ssyasa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ssyasa" height="30" width="40" />
-  </a>
-</p>
-
 --- 
