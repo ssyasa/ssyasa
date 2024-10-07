@@ -200,7 +200,6 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
 
 ---
 
----
 
 ## 🚀 **Technologies and Tools:**
 
@@ -218,6 +217,7 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+    <br>
   
   <!-- Front-End Development -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -241,6 +241,7 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
   </a>
+    <br>
 
   <!-- Back-End Development -->
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
@@ -258,6 +259,7 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
   </a>
+    <br>
 
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -272,6 +274,7 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
+    <br>
 
   <!-- Cloud & DevOps -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
@@ -292,6 +295,7 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
   </a>
+    <br>
 
   <!-- Data Science & ML -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
@@ -309,6 +313,7 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
   </a>
+    <br>
 
   <!-- Tools & Version Control -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -325,6 +330,7 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
   </a>
+    <br>
 </p>
 
 
