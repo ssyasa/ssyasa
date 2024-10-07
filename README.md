@@ -238,8 +238,7 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  
-    <br>
+      <br>
 
   <!-- Back-End Development -->
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
@@ -253,8 +252,7 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
-  </a>
-  
+  </a>  
     <br>
 
   <!-- Databases -->
