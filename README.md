@@ -180,13 +180,6 @@ With expertise in various domains including **Machine Learning models**, **predi
 
 ---
 
-## 🌱 Let’s Collaborate!
-
-I am actively looking for new freelance projects and long-term collaborations in **Machine Learning**, **Data Science**, and **Full-Stack Web Development**. I’m ready to bring your ideas to life with **tailored solutions** and **innovative technologies**.
-
-💼 **Reach me at** [shreyassrt483@gmail.com](mailto:shreyassrt483@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/shreyas-c-r-777b4229a) for opportunities.
-
----
 ## 🌟 Let’s Collaborate
 Looking for a partner to bring **data-driven insights**, **AI-powered applications**, or **full-stack web solutions** to life? Let’s work together to create transformative digital experiences and scalable platforms that meet your business goals.
 
