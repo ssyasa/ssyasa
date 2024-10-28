@@ -1,4 +1,4 @@
-<p align="center"> ### 👋 Hi, I'm Shreyas! </p>
+<p align="center"> 👋 Hi, I'm Shreyas! </p>
 ---
 # Freelancer | Data Analyst | Machine Learning Enthusiast | Full-Stack Developer
 
