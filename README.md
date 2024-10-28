@@ -202,7 +202,6 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
 
 ## 🚀 **Technologies and Tools**
 
-<p align="center">
   <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
