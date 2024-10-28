@@ -1,5 +1,5 @@
-# <p align="center"> **👋 Hi, I'm Shreyas!** </p>
-<p align="center">
+# <p align="center"> **👋 Hi, I'm Shreyas!** 
+
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer!;A+Data+Scientist!;Freelancer;Data+Analyst;Full+Stack+Developer?Tech+events+in+SF!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
