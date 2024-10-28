@@ -23,7 +23,7 @@ With expertise in various domains including **Machine Learning models**, **Predi
 
 ## 🏆 Projects That Deliver Results
 
-### **1. PR Reconciliation Dashboard**  
+## **1. PR Reconciliation Dashboard**  
 
 **Tools:** Power BI, DAX, SQL  
 **Objective:** Streamlining the process of reconciling **Purchase Requests** with invoices to identify discrepancies and reduce approval time.  
