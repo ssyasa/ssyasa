@@ -1,5 +1,6 @@
+### 👋 Hi, I'm Shreyas!
 ---
-# 🚀 Shreyas — Freelancer | Data Analyst | Machine Learning Enthusiast | Full-Stack Developer
+# Freelancer | Data Analyst | Machine Learning Enthusiast | Full-Stack Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer!;A+Data+Scientist!;Freelancer;Data+Analyst;Full+Stack+Developer?Tech+events+in+SF!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
@@ -13,7 +14,6 @@
 
 ---
 
-### 👋 Hi, I'm Shreyas!
 I am a passionate **Computer Science** graduate specializing in **Machine Learning**, **Full-Stack Development**, and **Data Science**. With over **3 years of freelancing** and internship experience, I excel in delivering **cutting-edge software solutions** that drive business growth, customer engagement, and operational efficiency. 
 
 ### 💼 Why Choose Me?
