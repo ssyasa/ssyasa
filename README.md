@@ -200,9 +200,9 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
 
 ---
 
-
 ## 🚀 **Technologies and Tools**
 
+<p align="center">
   <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
@@ -211,12 +211,16 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <br>
 
   <!-- Front-End Development -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/></a>
+
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+  <br>
+
+  <!-- MERN Stack -->
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></a>
   <br>
 
   <!-- Back-End Development -->
@@ -246,13 +250,14 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/></a>
   <br>
 
   <!-- Tools & Version Control -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
 </p>
+
 
 
 --- 
