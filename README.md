@@ -220,7 +220,7 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-    <br>
+  <br>
   
   <!-- Front-End Development -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -260,72 +260,230 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
 
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height "40"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-    <br>
+  <a href "https://www.postgresql.org/" target="_blank " rel ="noreferrer">
+    <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg " alt ="postgresql " width ="40 " height ="40 "/>
+   </ a >
+   < a href =" https://www.mongodb.com/ " target =" _blank " rel =" noreferrer ">
+     < img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg " alt ="mongodb " width ="40 " height ="40 "/>
+   </ a >
+   < a href =" https://firebase.google.com/ " target =" _blank " rel =" noreferrer ">
+     < img src =" https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg " alt ="firebase " width ="40 " height ="40 "/>
+   </ a >
+   < br >
 
-  <!-- Cloud & DevOps -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-    <br>
+   <!-- Cloud & DevOps -->
+   < a href =" https://aws.amazon.com/ " target =" _blank " rel =" noreferrer ">
+     < img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg " alt ="aws " width ="40 " height ="40 "/>
+   </ a >
+   < a href =" https://azure.microsoft.com/ " target =" _blank " rel =" noreferrer ">
+     < img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg " alt ="azure " width ="40 " height ="40 "/>
+   </ a >
+   < a href =" https://cloud.google.com/ " target =" _blank " rel =" noreferrer ">
+     < img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg " alt ="gcp " width ="40 " height ="40 "/>
+   </ a >
+   < a href =" https://www.docker.com/ " target =" _blank " rel =" noreferrer ">
+     < img src ="
+     https: // raw .githubusercontent .com / devicons / devicon / master / icons / docker / docker - original - wordmark .svg "
+     alt ="
+     docker "
+     width ="
+     40 "
+     height ="
+     40 "/> 
+   </ a >
+   <
+   a
+   href ="
+   https: // kubernetes .io /
+   "
+   target ="
+   _blank "
+   rel ="
+   noreferrer "
+   >
+     <
+     img
+     src ="
+     https: // raw .githubusercontent .com / devicons / devicon / master / icons / kubernetes / kubernetes - plain .svg "
+     alt ="
+     kubernetes "
+     width ="
+     40 "
+     height ="
+     40 "/> 
+   </ a >
+   <
+   a
+   href ="
+   https: // www .jenkins .io /
+   "
+   target ="
+   _blank "
+   rel ="
+   noreferrer "
+   >
+     <
+     img
+     src ="
+     https: // raw .githubusercontent .com / devicons / devicon / master / icons / jenkins / jenkins - original .svg "
+     alt ="
+     jenkins "
+     width ="
+     40 "
+     height ="
+     40 "/> 
+   </ a >
+    <
+    br >
 
-  <!-- Data Science & ML -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-    <br>
+    <!-- Data Science & ML -->
+    <
+    a
+    href ="
+    https: // scikit - learn .org /
+    "
+    target ="
+    _blank "
+    rel ="
+    noreferrer "
+    >
+      <
+      img
+      src ="
+      https: // raw .githubusercontent .com / devicons / devicon / master / icons / scikitlearn / scikitlearn - original .svg "
+      alt ="
+      scikit-learn "
+      width ="
+      40 "
+      height ="
+      40 "/> 
+    </ a >
+    <
+    a
+    href ="
+    https: // www .tensorflow .org /
+    "
+    target ="
+    _blank "
+    rel ="
+    noreferrer "
+    >
+      <
+      img
+      src ="
+      https: // raw .githubusercontent .com / devicons / devicon / master / icons / tensorflow / tensorflow - original .svg "
+      alt ="
+      tensorflow "
+      width ="
+      40 "
+      height ="
+      40 "/> 
+    </ a >
+    <
+    a
+    href ="
+    https: // pandas.pydata.org /
+    "
+    target ="
+    _blank "
+    rel ="
+    noreferrer "
+    >
+      <
+      img
+      src ="
+      https: // raw .githubusercontent .com / devicons / devicon / master / icons / pandas / pandas - original .svg "
+      alt ="
+      pandas "
+      width ="
+      40 "
+      height ="
+      40 "/> 
+    </ a >
+    
+</ p >
 
-  <!-- Tools & Version Control -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40
-
-" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-  </a>
-    <br>
-</p>
+<!-- Tools & Version Control -->
+< p align="
+left ">
+< a href="
+https :// git - scm .com /
+< img
+src="
+https :// raw .githubusercontent .com /
+devicons /
+devicon /
+master /
+icons /
+git /
+git - original - wordmark .
+svg
+alt="
+git
+width="
+4
+0
+height="
+4
+0"
+/ > 
+</ a > 
+< a href="
+https :// www .
+linux .
+org /
+< img
+src="
+https :// raw .
+githubusercontent .
+com /
+devicons /
+devicon /
+master /
+icons /
+linux /
+linux - original .
+svg
+alt="
+linux
+width="
+4
+0
+height="
+4
+0"
+/ > 
+</ a > 
+< a href="
+https :// code .
+visualstudio .
+com /
+< img
+src="
+https :// raw .
+githubusercontent .
+com /
+devicons /
+devicon /
+master /
+icons /
+vscode /
+vscode - original - wordmark .
+svg
+alt="
+vscode
+width="
+4
+0
+height="
+4
+0"
+/ > 
+</ a > 
+< br > 
+</ p >
 
 
 --- 
