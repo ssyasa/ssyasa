@@ -206,7 +206,6 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
 
 ## 🚀 **Technologies and Tools**
 
-<p align="center">
   <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
@@ -256,7 +255,6 @@ Looking for a partner to bring **data-driven insights**, **AI-powered applicatio
 
   <!-- Tools & Version Control -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
 </p>
 
